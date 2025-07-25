@@ -9,3 +9,10 @@ Diseñar visualizaciones claras para comunicar resultados y predicciones.
 
 Integrar una base de datos relacional que almacene los registros de inflación y resultados del modelo.
 
+
+
+
+
+
+requerimientos
+pip install requests pandas
